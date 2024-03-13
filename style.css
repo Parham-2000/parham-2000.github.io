@@ -56,8 +56,13 @@
 }
 
 body {
+  text-align: right;
+  width: 190.9mm;
+  font-size: 4.5mm;
+  line-height: 240%;
   font-family: 'KFGQPC_Uthman_Taha_Naskh', Arial, Helvetica, sans-serif;
 }
+
 
 /* Additional styles for better viewing */
 html {
